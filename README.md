@@ -1,6 +1,6 @@
 <h1 align="center"><b>Coaching Center Management System</b></h1>
 
-The Coaching Center Management System streamlines communication between students, parents, and faculty, ensuring that all stakeholders have access to 
+This project, the Coaching Center Management System streamlines communication between students, parents, and faculty, ensuring that all stakeholders have access to 
 up-to-date information. With integrated features such as progress tracking and attendance monitoring, the system enhances transparency and accountability 
 within the institution. Additionally, it provides robust data analytics tools that allow administrators to identify trends, predict outcomes, and make data-driven 
 decisions to improve the overall educational experience.
